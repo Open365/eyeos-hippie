@@ -14,7 +14,7 @@
     "eyeos-auth": "*",
     "hippie": "^0.3.0",
     "html-entities": "~1.1.2",
-    "log2out": "0.0.18",
+    "log2out": "*",
     "mustache": "~2.0.0",
     "request": "~2.57.0"
   },
